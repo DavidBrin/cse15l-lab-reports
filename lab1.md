@@ -5,9 +5,9 @@ here is a dog *snoot* to start your lab viewing with joy
 
 
 ## `cd` command
-1. <img width="265" alt="image" src="https://github.com/DavidBrin/cse15l-lab-reports/assets/79377443/71cf64a6-b224-40d9-a408-efef39f16632">
-  - The working directory when the command was run was /home.
-  - I got this output because we gave no arguments to change the directory, therefore, nothing happened.  
+1. <img width="183" alt="image" src="https://github.com/DavidBrin/cse15l-lab-reports/assets/79377443/7d505731-25a9-4bfa-9b63-9f672fd6faa7">
+  - The working directory when the command was run was /home/quiz2/.
+  - I got this output because we gave no arguments to change the directory, therefore, it automatically changes to the home directory.  
   - The output is not an error.
 
 2. <img width="241" alt="image" src="https://github.com/DavidBrin/cse15l-lab-reports/assets/79377443/6b542d4e-cb34-416a-88dc-ae6176f77d84"> 
@@ -40,7 +40,7 @@ here is a dog *snoot* to start your lab viewing with joy
 1. <img width="217" alt="image" src="https://github.com/DavidBrin/cse15l-lab-reports/assets/79377443/31b1bb80-4a9d-48a4-87ee-c0511a07ca2c">
  - The working directory was /home.
  - The output was nothing because we gave the function nothing to concatenate.
- - The output is an error because it was looking for files and didn't get any so it stopped the terminal.
+ - The output is not an error.
 
 2. <img width="225" alt="image" src="https://github.com/DavidBrin/cse15l-lab-reports/assets/79377443/85e7e611-9698-444d-9a57-81d43b809a68">
  - The working directory was /home.
