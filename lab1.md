@@ -4,7 +4,7 @@ here is a dog *snoot* to start your lab viewing with joy
 
 
 
-## cd command
+## `cd` command
 1. <img width="265" alt="image" src="https://github.com/DavidBrin/cse15l-lab-reports/assets/79377443/71cf64a6-b224-40d9-a408-efef39f16632">
   - The working directory when the command was run was /home.
   - I got this output because we gave no arguments to change the directory, therefore, nothing happened.  
@@ -20,7 +20,7 @@ here is a dog *snoot* to start your lab viewing with joy
   - The output was an error message telling us that in the command we ran (cd) the argument we gave it was not a directory.
   - The output is an error because the command needs a directory to change to and the file is not a directory.
 
-## ls command
+## `ls` command
 1. <img width="245" alt="image" src="https://github.com/DavidBrin/cse15l-lab-reports/assets/79377443/6a1de967-0cc0-4495-ad85-24966eb6cca3"> 
   - The working directory was /home/lecture1/messages.
   - The given output occurred because those files were all the files (and directories) available in the current working directory.
@@ -36,7 +36,7 @@ here is a dog *snoot* to start your lab viewing with joy
 - The given output simply returned the path to the file because the file given is not a directory and therefore did not have files or directories to list.
 - The output is not an error.
 
-## cat command
+## `cat` command
 1. <img width="217" alt="image" src="https://github.com/DavidBrin/cse15l-lab-reports/assets/79377443/31b1bb80-4a9d-48a4-87ee-c0511a07ca2c">
  - The working directory was /home.
  - The output was nothing because we gave the function nothing to concatenate.
