@@ -40,8 +40,9 @@ David Brin **Lab 2**
 
 This week I learned how to read information from the URL and transfer it onto the website using the given classes and libraries. I also didn't know about the remote access and the keys to forgo the password. The `mkdir` command was also helpful for quick organization. 
 
-
+*End of Lab Report*
 
 *Brin Signature*
   
-![image](dog_snoot.png)
+![image](dog_snoot.jpg)  
+**Have a great day!**
