@@ -2,8 +2,9 @@ David Brin **Lab 2**
 
 # Part 1: ChatServer
 **The code for ChatServer:**    
+
   
-<img width="710" alt="Screenshot 2024-01-28 172922" src="https://github.com/DavidBrin/cse15l-lab-reports/assets/79377443/3d4cfd9b-3e99-4956-a020-a5b847a89bfa">  
+  <img width="710" alt="Screenshot 2024-01-28 172922" src="https://github.com/DavidBrin/cse15l-lab-reports/assets/79377443/3d4cfd9b-3e99-4956-a020-a5b847a89bfa">  
 
 *Implementations* of Chat Server:
 
