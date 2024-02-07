@@ -61,5 +61,7 @@ After:
   }
 ```
 
+
 The new code fixes the issue because it saves the positions of the original array instead of writing over them before assigning them to the new values. 
 
+# Part 2
