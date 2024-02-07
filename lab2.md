@@ -27,9 +27,11 @@ David Brin **Lab 2**
 
 # Part 2: remote key
 
-**Using the `ls` command to show paths to the keys**
+**Using the `ls` command to show paths to the keys**  
+  
   public key:  
 <img width="371" alt="Screenshot 2024-01-28 201342" src="https://github.com/DavidBrin/cse15l-lab-reports/assets/79377443/68bb8113-2cde-4383-9dc5-55de7aec2a74">
+   
   private key:  
 <img width="374" alt="Screenshot 2024-01-28 201323" src="https://github.com/DavidBrin/cse15l-lab-reports/assets/79377443/93c85175-6423-4f1d-bfcf-f352bba0cf13">
 
