@@ -40,3 +40,26 @@ public void testReverseInPlace() {
 
 
 <img width="442" alt="image" src="https://github.com/DavidBrin/cse15l-lab-reports/assets/79377443/96c3d2d9-b818-4ffa-a430-ac0f4907ba6e">
+
+### Bug, before and after:
+before:
+```
+  static void reverseInPlace(int[] arr) {
+    for(int i = 0; i < arr.length; i += 1) {
+      arr[i] = arr[arr.length - i - 1];
+    }
+  }
+```
+After:
+```
+  static void reverseInPlace(int[] arr) {
+    for(int i = 0; i < arr.length /2; i += 1) {
+      int temp = arr[i];
+      arr[i] = arr[arr.length - i - 1];
+      arr[arr.length - i - 1] = temp;
+    }
+  }
+```
+
+The new code fixes the issue because it saves the positions of the original array instead of writing over them before assigning them to the new values. 
+
