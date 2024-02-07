@@ -22,3 +22,21 @@ public void testReverseInPlace() {
     assertArrayEquals(new int[]{ 3, 2, 1 }, input1);
 }
 ```
+### Input that does not induce a failure:
+
+```
+@Test 
+public void testReverseInPlace() {
+    int[] input1 = { 2};
+    ArrayExamples.reverseInPlace(input1);
+    assertArrayEquals(new int[]{ 2}, input1);
+}
+
+```
+
+### Symptom: failure, no failure
+
+<img width="468" alt="image" src="https://github.com/DavidBrin/cse15l-lab-reports/assets/79377443/025ba196-32d1-451e-a020-f1a2e50eba2b">
+
+
+<img width="442" alt="image" src="https://github.com/DavidBrin/cse15l-lab-reports/assets/79377443/96c3d2d9-b818-4ffa-a430-ac0f4907ba6e">
