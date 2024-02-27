@@ -50,3 +50,7 @@ ListExamplesTests` command was 4 up in the history, so I accessed and ran it in 
 
 ### Commit and push to GitHub
 
+<img width="485" alt="image" src="https://github.com/DavidBrin/cse15l-lab-reports/assets/79377443/aa6bbbb8-6c32-4928-b033-3222e96409c6">
+
+Finally, I committed and pushed changes to GitHub by typing `git add Li<Tab> .java<enter>` and 
+`git commit -m wasgood <enter>` to commit and send a message and `git push origin main` to push changes back to account.
