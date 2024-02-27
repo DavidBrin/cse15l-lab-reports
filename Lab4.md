@@ -15,8 +15,16 @@ Tasks:
 
 I typed `ssh` and my account for remote access
 
+### Clone the fork of the repository from GitHub
 
-###
+<img width="473" alt="image" src="https://github.com/DavidBrin/cse15l-lab-reports/assets/79377443/080f19a5-c0a7-4fde-b000-c0335900cb8c">
+
+To clone the repository from GitHub, I typed `git clone` and `<CTRL>-V` because the SSH link was copied to my clipboard. I typed `ls` in the picture just to demonstrate I was in the right repository because it was already cloned. 
+
+### Running tests and showing failures
+
+<img width="443" alt="image" src="https://github.com/DavidBrin/cse15l-lab-reports/assets/79377443/4fc0ba09-aae8-4779-8f91-116de7403a6f">
+
 Keys pressed: `<up><up><up><up><enter>`, `<up><up><up><up><enter> `
 The `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java `
 command was 4 up in the search history, so I used up arrow to access it. 
