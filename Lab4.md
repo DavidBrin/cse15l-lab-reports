@@ -35,7 +35,18 @@ ListExamplesTests` command was 4 up in the history, so I accessed and ran it in 
 
 <img width="494" alt="image" src="https://github.com/DavidBrin/cse15l-lab-reports/assets/79377443/a8adb4ce-84a3-492c-a26c-3069bcb3bc19">
 
-Keys pressed: `vim ListExamplesTests.java` which took me to the editor where I could press `<down>` until I got to the right line and use `6w` to get to the problem word and `a` to edit and replace the problem. 
+Keys pressed: `vim ListExamplesTests.java <enter>` which took me to the editor where I could press `<down>` until I got to the right line and use `6w` to get to the problem word and `a` to edit and replace the problem. 
+Finally, `:wq <enter>` to exit and save the file. 
 
+### Running tests with success
 
+<img width="592" alt="image" src="https://github.com/DavidBrin/cse15l-lab-reports/assets/79377443/bdb3912a-8c2e-44be-a2ca-dd4382b291fc">
+
+Keys pressed: `<up><up><up><up><enter>`, `<up><up><up><up><enter> `
+The `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java `
+command was 4 up in the search history, so I used up arrow to access it. 
+Then the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore 
+ListExamplesTests` command was 4 up in the history, so I accessed and ran it in the same way.
+
+### Commit and push to GitHub
 
