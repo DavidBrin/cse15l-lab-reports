@@ -30,3 +30,12 @@ The `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java `
 command was 4 up in the search history, so I used up arrow to access it. 
 Then the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore 
 ListExamplesTests` command was 4 up in the history, so I accessed and ran it in the same way.
+
+### Edit the code file to fix the test
+
+<img width="494" alt="image" src="https://github.com/DavidBrin/cse15l-lab-reports/assets/79377443/a8adb4ce-84a3-492c-a26c-3069bcb3bc19">
+
+Keys pressed: `vim ListExamplesTests.java` which took me to the editor where I could press `<down>` until I got to the right line and use `6w` to get to the problem word and `a` to edit and replace the problem. 
+
+
+
