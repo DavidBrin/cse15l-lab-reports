@@ -13,13 +13,13 @@ Tasks:
 
 <img width="494" alt="image" src="https://github.com/DavidBrin/cse15l-lab-reports/assets/79377443/8ada9e71-e8fc-4fcf-839a-076b366e8170">
 
-I typed `ssh` and my account for remote access by typing `ssh` and `<ctrl-v>` because my account was copied to the clipboard. Next, I highlighted the SSH link and typed `<ctrl-c>` to copy the SSH link to the clipboard. 
+I typed `ssh` and my account for remote access by typing `ssh` and `<ctrl-v><enter>` because my account was copied to the clipboard. Next, I highlighted the SSH link and typed `<ctrl-c>` to copy the SSH link to the clipboard. 
 
 ### Clone the fork of the repository from GitHub
 
 <img width="473" alt="image" src="https://github.com/DavidBrin/cse15l-lab-reports/assets/79377443/080f19a5-c0a7-4fde-b000-c0335900cb8c">
 
-To clone the repository from GitHub, I typed `git clone` and `<CTRL>-V` because the SSH link was copied to my clipboard. I typed `ls` in the picture just to demonstrate I was in the right repository because it was already cloned. 
+To clone the repository from GitHub, I typed `git clone` and `<CTRL-V> <enter>` because the SSH link was copied to my clipboard. I typed `ls <enter>` in the picture just to demonstrate I was in the right repository because it was already cloned. 
 
 ### Running tests and showing failures
 
