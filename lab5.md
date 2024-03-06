@@ -15,10 +15,15 @@ I ran this grader shell script and I'm getting an error. I'm not sure why it's n
   <img width="503" alt="image" src="https://github.com/DavidBrin/cse15l-lab-reports/assets/79377443/4d0b7650-e47c-481d-9587-45a3d156bda0">
 
 
+### TA Response
 
+The semicolon is a suggestion when the compiler sees an incomplete line and it may be misleading because it often pops up from other errors. Look at like 17, where the compiler found the error and read through your declarations and assignments to look for anything out of place or characters accidentally added. 
+  
+  
 
+### Student Response
 
-
+  Thanks so much for your help, I looked through the code, keeping what you said in mind and found an "S" in line 17 where it wasn't supposed to be. I deleted the bug and reran the code. 
 
   Here is the updated, debugged code:   
 <img width="447" alt="image" src="https://github.com/DavidBrin/cse15l-lab-reports/assets/79377443/aa9b3994-a2be-43ea-8ff2-8431f7e09a31">
