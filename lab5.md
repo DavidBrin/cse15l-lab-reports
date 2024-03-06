@@ -31,3 +31,11 @@ The semicolon is a suggestion when the compiler sees an incomplete line and it m
 Here is the working grade message, bug fixed:  
 <img width="757" alt="image" src="https://github.com/DavidBrin/cse15l-lab-reports/assets/79377443/fa75c5f9-df70-4869-9466-a1e7e8a0e516">
 
+
+### Setup
+
+- Files: TestListExamples.java grade.sh
+- Directory Structure: <img width="133" alt="image" src="https://github.com/DavidBrin/cse15l-lab-reports/assets/79377443/aa05c357-d4b0-4bcf-be0b-1e4719a36ed0">
+- Here is the code before:  
+  <img width="503" alt="image" src="https://github.com/DavidBrin/cse15l-lab-reports/assets/79377443/4d0b7650-e47c-481d-9587-45a3d156bda0">
+- Command line args ` bash grade.sh https://github.com/ucsd-cse15l-f22/list-methods-corrected`
