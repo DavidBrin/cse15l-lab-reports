@@ -39,3 +39,8 @@ Here is the working grade message, bug fixed:
 - Here is the code before:  
   <img width="503" alt="image" src="https://github.com/DavidBrin/cse15l-lab-reports/assets/79377443/4d0b7650-e47c-481d-9587-45a3d156bda0">
 - Command line args ` bash grade.sh https://github.com/ucsd-cse15l-f22/list-methods-corrected`
+
+# Part 2: reflection
+
+Throughout the quarter I learned about terminal commands, directory structure, bash scripts, debugging, and launching servers. I find the directory structure and file searching especially useful as it helps me understand my files and how to run them. Although not an in-depth analysis of the terminal it taught me the most important and useful parts of using the terminal. Furthermore, I see debugging to be a major part of my coding journey in the future. I can use LLMs for syntax and ideas but they cannot yet solve problems and continue to make mistakes so I believe bugs will always be present in my code, but this tool for debugging is immensely useful and I will be using it. Thanks for the fun labs and exciting activities. Have a good one!
+
